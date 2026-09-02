@@ -12,9 +12,6 @@ dependencies:
   - jupyterlab
   - notebook
   - ipykernel
-  - r-base
-  - r-mgcv
-  - rpy2
   - pip
   - pip:
       - ISLP
